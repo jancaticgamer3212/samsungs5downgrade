@@ -8,7 +8,7 @@ get your samsung galaxy s5 and a data cable. turn it off then hold power+volume 
 then when you see a warning, press volume up
 connect your data cable and press start on the odin program.
 wait for it to finish and boot into android. then power off your s5 and reboot it into download mode (power+volume down+home, then when you see the warning press volume up)
-download this firmware https://androidfilehost.com/?fid=10620683726822054652 or https://www.mediafire.com/download/i1dosn9xj340jr1/XSG-G900FXXU1ANCE-20140409--www.SamSony.net--.zip
+download this firmware https://androidfilehost.com/?fid=10620683726822054652 or https://www.mediafire.com/download/i1dosn9xj340jr1/XSG-G900FXXU1ANCE-20140409--www.SamSony.net--.zip or https://github.com/jancaticgamer3212/samsungs5downgrade/releases/download/firmware/XSG-G900FXXU1ANCE-20140409.zip
 you can use any of these links. media fire is the best one i gueess.
 then unzip the new firmware you just downloaded
 go to odin (again ofc), select ap, go to the folder where the firmware you just downloaded is and double click the "md5" file, this time go to "options" and uncheck "auto reboot"
