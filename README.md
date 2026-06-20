@@ -1,3 +1,4 @@
+IMPORTANT!!!!!!!!!!!!!!!! ONLY WORKS FOR SM-G900F
 ok so heres how you downgrade the s5 to its first ever firmware!. this firmware was compiled before the s5 even hit the shelves.
 step 1. download odin https://odindownload.com/download/Odin3_v3.14.4.zip
 now download this firmware https://androidfilehost.com/?fid=6006931924117929427
