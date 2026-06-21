@@ -2,6 +2,7 @@ IMPORTANT!!!!!!!!!!!!!!!! ONLY WORKS FOR SM-G900F
 ok so heres how you downgrade the s5 to its first ever firmware!. this firmware was compiled before the s5 even hit the shelves.
 step 1. download odin https://odindownload.com/download/Odin3_v3.14.4.zip
 now download this firmware https://androidfilehost.com/?fid=6006931924117929427 , https://github.com/jancaticgamer3212/samsungs5downgrade/releases/download/firmware/S5_G900F+STOCK+FIRMWARE+ANDROID+4.4.2.rar
+you can use any of these links. but i recommend you use the github one since its faster. use androidfilehost if something happans to the github download link
 then unzip odin and the firmware.
 open odin and select ap, go to the extracted firmware and select it. than wait untill odin unfreezes.
 get your samsung galaxy s5 and a data cable. turn it off then hold power+volume down+home
@@ -9,7 +10,7 @@ then when you see a warning, press volume up
 connect your data cable and press start on the odin program.
 wait for it to finish and boot into android. then power off your s5 and reboot it into download mode (power+volume down+home, then when you see the warning press volume up)
 download this firmware https://androidfilehost.com/?fid=10620683726822054652 or https://www.mediafire.com/download/i1dosn9xj340jr1/XSG-G900FXXU1ANCE-20140409--www.SamSony.net--.zip or https://github.com/jancaticgamer3212/samsungs5downgrade/releases/download/firmware/XSG-G900FXXU1ANCE-20140409.zip
-you can use any of these links. media fire is the best one i gueess.
+once again you can use any of these links. github is the best one i gueess.
 then unzip the new firmware you just downloaded
 go to odin (again ofc), select ap, go to the folder where the firmware you just downloaded is and double click the "md5" file, this time go to "options" and uncheck "auto reboot"
 flash the new firmware by clicking "start". now wait. if you see "pass" then hold power and volume down untill your phone reboots and enjoy your day one firmware. you dont need to follow the steps at the bottom.
