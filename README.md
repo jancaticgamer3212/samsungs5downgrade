@@ -1,4 +1,4 @@
-IMPORTANT!!!!!!!!!!!!!!!! ONLY WORKS FOR SM-G900F
+IMPORTANT!!!!!!!!!!!!!!!! ONLY WORKS FOR SM-G900F, IM NOT RESPONSABLE FOR BRICKED DEVICES,DATA LOSS ETC ETC, MAKE SURE YOUR ON BOOTLOADER BINARY 1, TO CHECK THAT BOOT INTO DOWNLOAD MODE AND CHECK AP SWREV AND MAKE SURE ITS: S1 T1 R1 A1 P1
 ok so heres how you downgrade the s5 to its first ever firmware!. this firmware was compiled before the s5 even hit the shelves.
 step 1. download odin https://odindownload.com/download/Odin3_v3.14.4.zip
 now download this firmware https://androidfilehost.com/?fid=6006931924117929427 , https://github.com/jancaticgamer3212/samsungs5downgrade/releases/download/firmware/S5_G900F+STOCK+FIRMWARE+ANDROID+4.4.2.rar
